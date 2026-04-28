@@ -19,7 +19,7 @@ En otras palabras, el return finaliza la funcion y envía el resultado'''
 print(
     menor_diferencia(1,10,100),
     menor_diferencia(1,10,10),
-    menor_diferencia(5, 6, 7),
+    menor_diferencia(5, 6, 7)
     #Python permite comas al final de los argumentos :)
 )
 

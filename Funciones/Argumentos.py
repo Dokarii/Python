@@ -3,7 +3,7 @@ Por ejemplo, podemos usar el valor 'sep' para separar el contrenido a imprimir''
 
 print(1, 2, 3, sep=' | ') #1 | 2 | 3
 print("Uno", "Dos", "Tres", sep=', ') #Uno, Dos, Tres
-#Si no especificamos 'sep' Python eligirá el separador por defecto que es un espacio vacio ' '
+#Si no especificamos 'sep' Python eligirá el separador por defecto que es un espacio vacío' '
 
 # Agregar argumentos opcionales con valores predeterminados a las funciones que definimos es bastante fácil:
 def sujeto(quien="michael"):
